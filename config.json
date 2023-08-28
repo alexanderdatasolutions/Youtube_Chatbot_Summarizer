@@ -1,0 +1,10 @@
+{
+    "openai": {
+        "key": "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"
+    },
+    "pinecone": {
+        "key": "c376a343-b5c7-4f45-9498-af6ba2fac53d",
+        "env": "us-west1-gcp"
+    }
+
+}

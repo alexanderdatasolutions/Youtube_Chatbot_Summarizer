@@ -1,0 +1,55 @@
+Matthew, a streamer, has created a video intended to assist beginner to advanced players of Path of Exile (PoE). The video provides tips, tricks and lesser-known information that can enhance gameplay. It is particularly relevant for players with 50 to 1000 hours of gameplay experience who might lack some insights. The video includes the use of the third-party tool, Path of Building, widely used by PoE players. This tool is used to experiment with and calculate elements of the game, import other players' builds, and save individual builds. It promotes worry-free testing, as it performs all the calculations. The feature called 'power report', often overlooked, presents the power of every single node based on selected preferences, which is beneficial when trying to maximize DPS (damage per second). The text is about an unnamed game in which players want to maximize DPS (damage per second) setups. Keys points include:
+
+- Players can examine "nodes" in their setup and the objective is to find the "anoint", the most powerful node that can be placed in their amulet.
+- This process involves calculations and examines not only overall power but helps identify areas of weakness, such as a need for more "crit multi" or flat damage.
+- The power of nodes can be visually represented via heat maps and can be listed out in a "power report".
+- This process also involves a tool, Path of Building, which can help import items into the game from copying and pasting. 
+- This tool can be used for all gear and can work with items players see around in the game, even those linked by other people 
+- Another feature mentioned is the trade site, which is used for trading in the game's community (the specifics have not been discussed.) 
+
+Please note that the nature of the game was not mentioned in the text. The discussion revolves around gaming mechanics mostly about optimising damage outputs and using tools to import items. "Path of Exile" is a game that has a trade website where you can search for items. On the website, there are two useful features - 'copy item' and 'filter item by stats.' The 'copy item' button allows you to copy the item directly into your "Path of Building" for testing before purchasing. The 'filter item by stats' feature can be used to copy and adjust the stats of an item, particularly useful for unique items which typically have many distinct properties. Another useful feature is the 'tilled' button, which accumulates any text you type when searching, regardless of the sequence. It helps to narrow down search results based on your requirements. The text primarily talks about methods to enhance gameplay in Path of Exile, which include using the search function, POE DB, and the stash tab system. Searching with a 'tilt' before the attribute or command, such as 'tilled attack crit', leads to more effective results. POE DB is a third-party tool popular among players, primarily used for gaining insights about possible item modifiers. It provides information about prefixes, suffixes, and levels at which these modifiers can be applied. Lastly, the text recommends investing in stash tabs to improve end-game experience, though Path of Exile is a free-to-play game. While many stash tabs provide utility, the best ones for a player would depend on their specific needs.
+ The text is discussing certain gameplay mechanics related to managing inventory in a game. Key points in the text include: 
+
+1. The game utilizes different kinds of tabs, including premium tabs, currency tabs, map tabs, divination card tabs, and fragment tabs. Premium tabs are particularly useful because they can be set to public for selling items. 
+
+2. The currency and map tabs are considered as essential as they can save a good deal of space and simplify gameplay.
+
+3. Affinities are a feature where if a tab has a specific affinity assigned, any items matching that affinity gets directed towards that tab, regardless of the tab that the player is currently on. For example, currency items will go to a tab with a currency affinity.
+
+4. Control-clicking is a shortcut for moving items into the stash tab. If control-clicked out, items are sent back into the player's inventory.
+
+5. Players can also split items by shift-clicking. This allows them to separate and manage items one at a time. 
+
+Without contextual information such as the name of the game being discussed, it's impossible to give further details or specifics. The text talks about using different currency items in a video game for various purposes. It mentions tips as to how to efficiently use them. The key points to note include:
+
+1. Holding shift allows for accelerated use of currency, which is useful for activities like spamming fusings or using chaos.
+2. Quality, which can be applied on items, is influenced by the color of the item (white, blue, or rare/unique) and the type of currency used. For instance, white items get five quality per use of currency, blue gets two, and rare/unique get one.
+3. The example given is regarding a map. The number of chisels added (a type of currency) depends on the item color – for a white item, one chisel gives five quality, for a blue item it's two, and for a rare item one.
+4. It's recommended to plan ahead for items needing quality enhancement using armor scraps, whetstones, and cartography chisels.
+5. The quality of weapons and armor also affects the ability to six-link items. Hence, before a player six-links or six-sockets, they should ensure their items are of maximum quality.
+6. Gem interactions: Using a gem cutter prism can boost the quality of gems. A level 20 gem can be sold to the vendor with a prism to get a level 1 gem with 20 quality. This process, while requiring leveling again, saves a significant amount of currency.
+7. High-level character players often employ this strategy to improve the quality of their gems and save currency. The text explains various interactions and tips to optimize the use of gems and hideout settings in a video game, likely Path of Exile:
+
+1. Gems: You can de-level a gem back to level one by selling it with a regret orb, which gives you a level one version of that gem with 20 quality. Gems can also be de-leveled by one level by selling with a scouring orb.
+
+2. Hideout: It's advised to set up your hideout with various stash tabs and usable benches. Ensure to place all different league mechanics onto your stash so you can interact with them. Examples include the expedition locker and various league NPCs like the heist locker. Don't forget to include features like the harvest bench.
+
+3. Crafting Bench: On the crafting bench, there are undiscovered or veiled recipes at the bottom. These show you varying crafting recipes you have not yet discovered, and where they're from. You'll also be able to see who will give you the recipes you don't have. This info is useful, especially for new league participants as it helps in strategizing what they need and where to get them. 1. Veteran PeeWee players commonly use the crafting bench to change the color of item sockets.
+2. Pure armor items typically have red sockets and obtaining different colors is challenging.
+3. To easily recolor, players can use the crafting bench and jeweler orbs to add and remove sockets.
+4. The technique to add/remove sockets via the crafting bench was discovered about seven years ago and made it easier to get off-colors on an item.
+5. The bench-crafting also allows for focus crafts, obtained usually from a betrayal interaction.
+6. Once an item is crafted with focus and equipped, a focus button operates throughout your gear and skill system, functioning as a temporary buff with a cool down system.
+7. The text also mentions maps, but the information is incomplete. The text provides tips for managing maps in a game. By right-clicking the maps in the in-game Atlas, players can see their locations and connections. They can sell three maps to upgrade to a next tier map, which will be connected to current tiers. Using Commander Kerak and purchasing his maps often is encouraged, as his offerings reset every time a map is opened. The text also mentions a harvest system where color coding is used to discern plot values. Blue plots yield extra monsters and more harvest currency, white ones drop a few currency pieces, and gray ones are least valuable. Despite a typical hierarchy of yellow, blue, and purple plots, the best choices vary based on the situation. 1. Certain rare bosses drop the most currency and should be prioritized in fights.
+2. One of the game mechanics is "ambush" which involves using strongboxes. Strongboxes can be interacted with, identified, and possibly rerolled using various currencies.
+3. This feature generally isn't useful, but can be beneficial for arcanist strongboxes and divination card strongboxes, particularly at the beginning of the league. 
+4. Identification of strongboxes is crucial to see what they contain.
+5. Pantheons are a system to upgrade your character. They are situational and some of them have the potential to offer significant power boosts.
+6. Upgrading Pantheons requires placing a map and a divine vessel in the device map, identifying and capturing the specific target, killing the boss, then capturing it. 
+7. Once a Pantheon is upgraded, it cannot be downgraded. However, this is seldom an issue.
+8. Trials and labs will be encountered throughout the campaign. 1. In the game, there are three tiers of lab and an uber lab. The uber lab requires six trials but they're not mandatory if one has an 'offering to the goddess'. 
+2. Players are allowed to enter the uber lab at any time by offering to the goddess, especially after finishing the maps. 
+3. Sacrifice at dusk fragments can be used to open a vile side zone from the map device which can be farmed for additional corrupted gems.
+4. The concept of a 'lucky hit' in Path of Exile differs from Diablo 4. In Path of Exile, a lucky hit involves an attack running twice and choosing the best outcome. However, instances of lucky hits occur less frequently.
+5. The game has search functions throughout, allowing players to easily locate currencies or other items. These functions are highly recommended for optimal gameplay.
+6. Unlike the default system, players can utilize the search function even in the microtransaction store. The text is mainly about tips and tricks for playing Path of Exile. One advice highlighted is typing '/passives' to display all the passives obtained or missed after finishing the campaign. If the result is zero from the 'deal with bandits', it implies that player sided with a bandit. Checking passives and ensuring their completion is encouraged after the campaign. The speaker emphasizes that Path of Exile is a complex game with many aspects to explore, learn, and enjoy.

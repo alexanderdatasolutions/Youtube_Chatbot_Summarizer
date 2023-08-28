@@ -1,0 +1,50 @@
+The speaker, Dream, has created a video about tattoos in PoE (Path of Exile) game. Dream has created a spreadsheet detailing all types of tattoos accessible in the game. Dream worked with another experienced PoE player, Elishar, to assign initial rankings to these tattoos. Gamers should take this as a preliminary ranking helpful for getting an idea of the relative strengths of the tattoos, and informing decisions on what to sell or buy in terms of game rewards. 
+
+Dream gives advice on usage of tattoos in the game based on personal experience. Most tattoos cost between 1 to 5 C, and demand is currently low due to low use and supply. Dream advises getting into the tattoo market quickly to grab some serious bargains. 
+
+Dream is currently using 'plus for all attribute tattoos' to fix a problem with their game build. Dream is playing a ranger build that uses a unique amulet. The user's character has excessive dexterity due to being a ranger, with all travel nodes indicating this. There is a problem with unused and wasted stats due to the overabundance of dexterity. Additionally, the character also requires substantial intelligence and strength which the user struggles to attain. To address the issues, the user utilized tattoos to transform the extra +10 dexterity nodes into +4 all-attribute nodes, hence gaining useful strength and intelligence while avoiding much loss.
+
+The members are encouraged to explore the effects of tattoos to effciently utilize any surplus attribute that they might not use or need and turn them into something more beneficial for their builds. The author provided a spreadsheet covering all the tattoos in the game along with their effects and exact names, assisting users in finding the effects they're interested in and guiding them on where to find those effects on the trade website. 
+
+The process of finding the desired tattoo on the trade website, involves selecting the tattoo of interest, copying its name, then pasting it onto the trade website search field. The text discusses a ranking system and a set of powerful tattoos linked to the system. A tattoo called "4C" is available for purchase. The ranking system is meant to guide users in evaluating whether they might want to buy a particular tattoo when seen in the trial of the ancestors reward tab, which the text implies is a place where the tattoos can be found.
+
+There are special requirements for the Makanga tattoos, the most potent class of tattoos tied to different clans. Every clan has its own Makanga tattoo, but applying them has a stringent requirement. There is no limit to the number of Makanga tattoos one can possess, but the application condition is severe.
+
+An example given is the "Tattoo of the Namahu Makanga," which replaces a small strength passive skill with an ability that offers plus one to maximum fire resistance. However, getting this tattoo requires a specific setup on a passive skill tree. It can only be connected to one adjacent passive node. If it is connected to more than one, it cannot be placed. This information determines where on the passive skill tree the Makanga tattoo can be placed. The text details the use and placement of Makanga tattoos in a gaming context, with each tattoo providing different benefits. Here are the main points:
+
+1. The text refers to the use and tactical placement of "Makanga" tattoos, which seem to carry certain resistances. The concept involves allocating nodes such as a fire or cold res tattoo to enhance resistances. This can only be done if it's connected to one node.
+   
+2. Some tattoos have different requirements. For example, the tattoo of Hinokora Makanga needs seven adjacent passive skills allocated. Adjacent here means 'connected.' 
+
+3. The ideal placement for a tattoo with these requirements is a travel point connected to seven other nodes, ideally in the middle of everything. An example provided is a node connected to seven other nodes. 
+
+4. Finding these points may be difficult and vary based on the player's build. An example is given for a suitable placement for 'shadow' where the tattoo is connected to seven other nodes. 
+
+5. There seems to be another section of tattoos but this is not specified in the text. The text discusses the concept of tattoos in a game, specifically honored tattoos, which can replace attribute nodes, both small and big. These tattoos provide different abilities and are useful for player character customization, often referred to as "theorycrafting". Some specific tattoos mentioned include: 
+
+1. The "explode" tattoo, powerful but difficult for Witch and Ranger characters to obtain. 
+2. Max res 2-2s, useful for all players, with the +1-2 max fire res being beneficial for RF characters. 
+3. Plus curse effect, extremely beneficial for curse bots and anyone using curses. 
+4. Flask effect, which can be exploited for notable game advantages. 
+5. Cooldown recovery rate, great for cast on crit or any trigger-related playstyle. 
+
+The description suggests the advantage of these tattoos depends on the players' characters, their attributes, and the play style they follow. Players need to carefully assess what tattoo to use to optimize gameplay. The text details the value and usefulness of certain game items, seemingly referred to as "tattoos", in a specific video game context. Key points include the high trading value of 'Divines' with a '+1 to Purage' effect (presumably a valuable upgrade), trading at 8 divines each due to its high demand among players, specifically rangers. 
+Details about 'nodes' suggest that most player builds commonly include them, which acts as a bonus feature or function for them.
+
+Other highly rated tattoos include: 
+
+1. Life Regeneration, which is beneficial for 'Berserk' and 'RF Build' players.
+
+2. Rarity, which is desirable for 'MF' players.
+
+3. Global Defense, advantageous for 'Armor Stacker' players.
+
+4. Increased Life, a universal benefit.
+
+There are other useful tattoos: Reservation Efficiency, Aura Effect, '+1 to Strength Gems', '+1 to Max Fire Res' and '+1 to Endurance Charge.' Same applies for 'Frenzy and Power Charges.' 
+
+Other popular items include Fortify, Onslaught, and Arcane Surge, which are given out freely. 
+
+Finally, in specific scenarios, other options like 'Suppression' are mentioned.
+
+In summary, the value, usefulness, and implications for gameplay strategy of various tattoo items are discussed. The text provides information about a game, highlighting the impact of suppression capacity on various builds and movement speed. The author emphasizes the importance of many attributes that can be beneficial depending upon the situation. For instance, flat damage can be effective when accumulated in large amounts, and replacing unnecessary attributes with more desirable ones can improve game performance. If a player is using strategies involving minions, increasing minion life can be beneficial. The author also encourages players to explore various possibilities within the game. Further, the text suggests players to start paying attention to 'tattoos' before they become popular and expensive in the game's economy. The author ends by expressing hope that the provided information is useful.
